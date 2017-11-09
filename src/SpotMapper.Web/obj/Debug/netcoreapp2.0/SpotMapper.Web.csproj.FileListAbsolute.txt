@@ -1,0 +1,12 @@
+/home/brendon/dev/SpotMapper/src/SpotMapper.Web/bin/Debug/netcoreapp2.0/app.db
+/home/brendon/dev/SpotMapper/src/SpotMapper.Web/bin/Debug/netcoreapp2.0/SpotMapper.Web.deps.json
+/home/brendon/dev/SpotMapper/src/SpotMapper.Web/bin/Debug/netcoreapp2.0/SpotMapper.Web.runtimeconfig.json
+/home/brendon/dev/SpotMapper/src/SpotMapper.Web/bin/Debug/netcoreapp2.0/SpotMapper.Web.runtimeconfig.dev.json
+/home/brendon/dev/SpotMapper/src/SpotMapper.Web/bin/Debug/netcoreapp2.0/SpotMapper.Web.dll
+/home/brendon/dev/SpotMapper/src/SpotMapper.Web/bin/Debug/netcoreapp2.0/SpotMapper.Web.pdb
+/home/brendon/dev/SpotMapper/src/SpotMapper.Web/obj/Debug/netcoreapp2.0/SpotMapper.Web.csproj.CoreCompileInputs.cache
+/home/brendon/dev/SpotMapper/src/SpotMapper.Web/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/home/brendon/dev/SpotMapper/src/SpotMapper.Web/obj/Debug/netcoreapp2.0/SpotMapper.Web.AssemblyInfoInputs.cache
+/home/brendon/dev/SpotMapper/src/SpotMapper.Web/obj/Debug/netcoreapp2.0/SpotMapper.Web.AssemblyInfo.cs
+/home/brendon/dev/SpotMapper/src/SpotMapper.Web/obj/Debug/netcoreapp2.0/SpotMapper.Web.dll
+/home/brendon/dev/SpotMapper/src/SpotMapper.Web/obj/Debug/netcoreapp2.0/SpotMapper.Web.pdb
